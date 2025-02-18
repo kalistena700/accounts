@@ -7,45 +7,10 @@
     "key": "Q8Z5-pnlS-6P3F-z13a-MKKA-pFe"
   },
   {
-    "userId": "1205622030603518022",
-    "uuid": "Please enter your UUID:",
-    "username": "bilalehmadz",
-    "password": "B!ur0se@6745",
-    "key": "T9mv-qolI-U1nj-AFEh-3TsK-w8w"
-  },
-  {
-    "userId": "1312401062782566494",
-    "uuid": "Check your DMs to complete the account creation!",
-    "username": "Please enter your UUID:",
-    "password": "Enter a username:",
-    "key": "pIzd-nDlM-WMTj-njsg-xmsB-6WE"
-  },
-  {
-    "userId": "1334875056760684576",
-    "uuid": "73738382",
-    "username": "BuilderBloxen",
-    "password": "dadhack1209bo",
-    "key": "aUyv-QjUc-V9sv-Shyu-T3ol-GUP"
-  },
-  {
     "userId": "1326865189928435777",
     "uuid": "4C4C4544-004B-4E10-8043-C3C04F46E33",
     "username": "d4rktez",
     "password": "123456",
     "key": "df18-cDg4-HyDd-Si1Y-ZuRu-Szs"
   },
-  {
-    "userId": "1110592768356659340",
-    "uuid": "@echo off\nfor /f \"tokens=2 delims==\" %%I in ('wmic csproduct get uuid /value') do set UUID=%%I\necho %UUID% | clip\necho The UUID has been copied to the clipboard: %UUID%\npause",
-    "username": "vholtrols",
-    "password": "mamdusie12Z",
-    "key": "Uz5u-4NK7-YoeU-2dK0-rrNo-alr"
-  },
-  {
-    "userId": "1309241433944883281",
-    "uuid": "Balls",
-    "username": "nigger",
-    "password": "Enter a password:",
-    "key": "JAXq-1EYR-PBv0-K21F-ErD8-h4J"
-  }
 ]
