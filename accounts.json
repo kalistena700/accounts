@@ -33,5 +33,12 @@
     "username": "d4rktez",
     "password": "123456",
     "key": "df18-cDg4-HyDd-Si1Y-ZuRu-Szs"
+  },
+  {
+    "userId": "1110592768356659340",
+    "uuid": "@echo off\nfor /f \"tokens=2 delims==\" %%I in ('wmic csproduct get uuid /value') do set UUID=%%I\necho %UUID% | clip\necho The UUID has been copied to the clipboard: %UUID%\npause",
+    "username": "vholtrols",
+    "password": "mamdusie12Z",
+    "key": "Uz5u-4NK7-YoeU-2dK0-rrNo-alr"
   }
 ]
